@@ -1,1 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 272 480"><path fill="#cdffb8" d="M181.334 93.333v-40L226.667 80v40zM136.001 53.333 90.667 26.667v426.666L136.001 480zM45.333 220 0 193.334v140L45.333 360z"/><path fill="#d482ab" d="M90.667 26.667 136.001 0l45.333 26.667-45.333 26.666zM181.334 53.33l45.333-26.72L272 53.33 226.667 80zM136 240l-45.333-26.67v53.34zM0 193.33l45.333-26.72 45.334 26.72L45.333 220zM181.334 93.277 226.667 120l-45.333 26.67z"/><path fill="#2abc89" d="m136 53.333 45.333-26.666v120L226.667 120V80L272 53.333V160l-90.667 53.333v240L136 480V306.667L45.334 360V220l45.333-26.667v73.334L136 240z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="svgviewer-output (3).svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.90625"
+     inkscape:cx="15.98681"
+     inkscape:cy="16"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="opacity:.8;fill:#000;fill-opacity:1;stroke-width:1.41436;stroke-dasharray:none"
+     d="M0 0h32v32H0z"
+     id="path1" />
+  <g
+     id="g2"
+     transform="translate(1.0846714,-0.55409403)">
+    <text
+       x="1"
+       y="32"
+       font-weight="500"
+       font-size="40px"
+       class="text-p"
+       letter-spacing="-1"
+       style="font-family:Inter, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;opacity:0.8;fill:#ea7712;fill-opacity:1;stroke-width:1.71855;stroke-dasharray:none"
+       transform="translate(1.679,-1.442)"
+       id="text1">P</text>
+    <text
+       x="16.618454"
+       y="30.558001"
+       font-weight="750"
+       font-size="12px"
+       class="text-t"
+       style="font-family:Inter, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;fill:#ea7711;fill-opacity:0.8;stroke-width:1.71585"
+       id="text2">T</text>
+  </g>
+</svg>
