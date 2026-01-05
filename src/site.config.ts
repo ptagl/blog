@@ -27,7 +27,8 @@ export const siteConfig: SiteConfig = {
 	*/
 	title: "Protocol Trace",
 	// ! Please remember to replace the following site property with your own domain, used in astro.config.ts
-	url: "https://astro-cactus.chriswilliams.dev/",
+	url: "https://ptagl.github.io/blog/",
+    base: "/blog",
 };
 
 // Used to generate links in both the Header & Footer.
